@@ -1,0 +1,2 @@
+javac bookStore/*.java
+java bookStore.LoginScreen
