@@ -1,2 +1,2 @@
 javac bookStore/*.java
-java bookStore.LoginScreen
+java bookStore.HomePage

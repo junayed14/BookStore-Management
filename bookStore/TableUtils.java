@@ -16,6 +16,28 @@ public class TableUtils {
                 book.getBookId(),
                 book.getTitle(),
                 book.getAuthor(),
+                book.getCategory(),
+                book.isPopular(),
+                book.getPrice(),
+                book.getStock()
+            };
+            tableModel.addRow(rowData);
+        }
+    }
+
+    public static void CloadBooksIntoTable(DefaultTableModel tableModel) {
+        // Read the books from the file.
+        List<Book> books = FileHandler.readBooks();
+        tableModel.setRowCount(0); // Clear the existing rows in the table.
+
+        // Add each book as a row in the table.
+        for (Book book : books) {
+            Object[] rowData = {
+                book.getBookId(),
+                book.getTitle(),
+                book.getAuthor(),
+                book.getCategory(),
+                // book.isPopular(),
                 book.getPrice(),
                 book.getStock()
             };

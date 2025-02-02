@@ -1,2 +1,2 @@
-admin,admin123,admin
-customer,cus123,customer
+admin,admin,admin
+customer,customer,customer

@@ -1,1 +1,4 @@
-# BookStore-Management
+```
+javac bookStore/*.java
+java bookStore.HomePage
+```

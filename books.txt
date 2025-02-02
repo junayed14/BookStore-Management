@@ -1,3 +1,15 @@
-001,test2,test2,200.0,53
-002,test1,test1,100.0,4
-003,test3,test3,250.0,50
+B001,The Alchemist,Paulo Coelho,Fiction,false,350.0,10
+B002,Atomic Habits,James Clear,Self-Help,true,550.0,15
+B003,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,true,500.0,20
+B004,To Kill a Mockingbird,Harper Lee,Classic,false,400.0,12
+B005,1984,George Orwell,Dystopian,false,450.0,7
+B006,The Subtle Art of Not Giving a F*ck,Mark Manson,Self-Help,true,600.0,17
+B007,Rich Dad Poor Dad,Robert Kiyosaki,Finance,true,700.0,24
+B008,The Great Gatsby,F. Scott Fitzgerald,Classic,false,300.0,8
+B009,The Hobbit,J.R.R. Tolkien,Fantasy,true,480.0,22
+B010,Deep Work,Cal Newport,Productivity,false,650.0,0
+B011,The Psychology of Money,Morgan Housel,Finance,true,750.0,20
+B012,The Catcher in the Rye,J.D. Salinger,Classic,false,350.0,1
+B013,The 5 AM Club,Robin Sharma,Self-Help,false,500.0,9
+B014,Sapiens: A Brief History of Humankind,Yuval Noah Harari,History,true,800.0,12
+B015,Think and Grow Rich,Napoleon Hill,Finance,false,550.0,11
